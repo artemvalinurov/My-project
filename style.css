@@ -11,3 +11,8 @@ body {
     text-decoration-color: red;
     color: red;
 }
+
+.brona{
+    color: red;
+    background-image: url('./img/maxresdefault.jpg');
+}
