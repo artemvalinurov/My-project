@@ -16,3 +16,80 @@ body {
     color: red;
     background-image: url('./img/maxresdefault.jpg');
 }
+
+.FN2000{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.Gaidi{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+
+.help{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.home{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.vintovki{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.weapons{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.zveroboy{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.pistol-pulemets{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.speedweapon{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.gadgets{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.droboviki{
+    color: red;
+    background-image: url(./img/maxresdefault.jpg);
+}
+
+.vintovki_2{
+    text-align: right;
+}
+
+.droboviki_2{
+    text-align: center;
+}
+
+.pistol-pulemets_2{
+    text-align: left;
+}
+
+.gadgets_2{
+    text-align: justify;
+}
+
+.speedweapon_2{
+    flex-direction: row;
+}
+
